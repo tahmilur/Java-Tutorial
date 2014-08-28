@@ -1,7 +1,7 @@
 package assignment;
 
 /**
- * @author Tahmilur
+ * @author Tahmilur Rahman
  *
  */
 public class ConvertCelsiusToFahrenheit {
